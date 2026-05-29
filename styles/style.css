@@ -24,9 +24,10 @@ body {
 
 #titulo {
   margin-bottom: 15px;
+
 }
 
-#botao-adicionar {
+.botao {
   padding: 10px;
   margin-bottom: 15px;
   cursor: pointer;
